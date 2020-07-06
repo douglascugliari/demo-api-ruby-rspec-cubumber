@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "Valor": {
+            "type": "string"
+        },
+        "Marca": {
+            "type": "string"
+        },
+        "Modelo": {
+            "type": "string"
+        },
+        "AnoModelo": {
+            "type": "integer"
+        },
+        "Combustivel": {
+            "type": "string"
+        },
+        "CodigoFipe": {
+            "type": "string"
+        },
+        "MesReferencia": {
+            "type": "string"
+        },
+        "TipoVeiculo": {
+            "type": "integer"
+        },
+        "SiglaCombustivel": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "Valor",
+        "Marca",
+        "Modelo",
+        "AnoModelo",
+        "Combustivel",
+        "CodigoFipe",
+        "MesReferencia",
+        "TipoVeiculo",
+        "SiglaCombustivel"
+    ]
+}
