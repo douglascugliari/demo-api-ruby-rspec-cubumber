@@ -28,3 +28,10 @@ $ bundle install
 ```shell
 $ cucumber
 ```
+</br>
+</br>
+
+<p float="left">
+  <img src = "https://blog.vindi.com.br/wp-content/uploads/2016/03/ruby.jpeg" height = "100" width = "100"/>
+  <img src="https://rspec.info/images/logo_ogp.png" height = "100" width = "100"/>
+</p>
