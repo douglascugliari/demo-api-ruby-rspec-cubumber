@@ -1,9 +1,10 @@
 # Automação de Testes em API com HTTParty e Cucumber
 
+[Ruby](https://www.ruby-lang.org/pt/) + [Rspec](https://rspec.info/) + [Cucumber](https://cucumber.io/) + [HttParty](https://rubygems.org/gems/httparty/)
+
 ## Sobre o Projeto
 Este projeto trata-se de uma demonstração do uso do HTTParty para realizar testes automatizados dentro do processo do BDD utilizando o Cucumber.
 
-## cucumber
 
 #### Pré-requisitos
 
